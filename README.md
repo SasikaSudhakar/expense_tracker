@@ -24,4 +24,4 @@ A simple command-line expense tracker that allows users to record expenses, view
 ## How to Run
 
 ```bash
-python expense_tracker.py
+py expense_tracker.py
