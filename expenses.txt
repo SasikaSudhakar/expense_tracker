@@ -1,0 +1,4 @@
+maintenance, 2000.0, other
+grocery, 5000.0, food
+vehicle insurance, 15000.0, travel
+dress, 8000.0, shopping
